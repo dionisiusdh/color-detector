@@ -1,4 +1,4 @@
-# color-detector
+# Color Detector Using Computer Vision
 A color detector program, written in Python, made using computer vision
 
 Requirements:
